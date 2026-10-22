@@ -1,0 +1,1930 @@
+{
+  "rtk_version": "rtk 1.0.1",
+  "n": 70,
+  "corpora": [
+    "C:\\Users\\ACHOUTAHA\\Documents\\Default Project\\products",
+    "C:\\Users\\ACHOUTAHA\\Documents\\Default Project\\.opencode\\skills\\video-ad-editor\\scripts",
+    "C:\\Users\\ACHOUTAHA\\Documents\\Default Project\\.opencode\\skills\\remotion-best-practices"
+  ],
+  "summary": {
+    "none": {
+      "n": 70,
+      "median_saved": 0.0,
+      "mean_saved": 0.0,
+      "median_retention": 100.0,
+      "min_retention": 100.0,
+      "pct_claim_met": 0.0,
+      "pct_any_saving": 0.0
+    },
+    "minimal": {
+      "n": 70,
+      "median_saved": 0.0,
+      "mean_saved": 3.288053263951405,
+      "median_retention": 100.0,
+      "min_retention": 60.0,
+      "pct_claim_met": 0.0,
+      "pct_any_saving": 12.857142857142856
+    },
+    "aggressive": {
+      "n": 70,
+      "median_saved": 0.0,
+      "mean_saved": 14.176834064901877,
+      "median_retention": 100.0,
+      "min_retention": 20.0,
+      "pct_claim_met": 11.428571428571429,
+      "pct_any_saving": 17.142857142857142
+    }
+  },
+  "rows": [
+    {
+      "file": "SKILL.md",
+      "raw_tok": 983,
+      "levels": {
+        "none": {
+          "tok": 983,
+          "saved_pct": 0.0,
+          "retention_pct": 100.0,
+          "sig_kept": 2,
+          "sig_total": 2
+        },
+        "minimal": {
+          "tok": 983,
+          "saved_pct": 0.0,
+          "retention_pct": 100.0,
+          "sig_kept": 2,
+          "sig_total": 2
+        },
+        "aggressive": {
+          "tok": 983,
+          "saved_pct": 0.0,
+          "retention_pct": 100.0,
+          "sig_kept": 2,
+          "sig_total": 2
+        }
+      }
+    },
+    {
+      "file": "REFERENCE.md",
+      "raw_tok": 283,
+      "levels": {
+        "none": {
+          "tok": 283,
+          "saved_pct": 0.0,
+          "retention_pct": 100.0,
+          "sig_kept": 3,
+          "sig_total": 3
+        },
+        "minimal": {
+          "tok": 283,
+          "saved_pct": 0.0,
+          "retention_pct": 100.0,
+          "sig_kept": 3,
+          "sig_total": 3
+        },
+        "aggressive": {
+          "tok": 283,
+          "saved_pct": 0.0,
+          "retention_pct": 100.0,
+          "sig_kept": 3,
+          "sig_total": 3
+        }
+      }
+    },
+    {
+      "file": "display-captions.md",
+      "raw_tok": 737,
+      "levels": {
+        "none": {
+          "tok": 737,
+          "saved_pct": 0.0,
+          "retention_pct": 100.0,
+          "sig_kept": 1,
+          "sig_total": 1
+        },
+        "minimal": {
+          "tok": 737,
+          "saved_pct": 0.0,
+          "retention_pct": 100.0,
+          "sig_kept": 1,
+          "sig_total": 1
+        },
+        "aggressive": {
+          "tok": 737,
+          "saved_pct": 0.0,
+          "retention_pct": 100.0,
+          "sig_kept": 1,
+          "sig_total": 1
+        }
+      }
+    },
+    {
+      "file": "import-srt-captions.md",
+      "raw_tok": 541,
+      "levels": {
+        "none": {
+          "tok": 541,
+          "saved_pct": 0.0,
+          "retention_pct": 100.0,
+          "sig_kept": 5,
+          "sig_total": 5
+        },
+        "minimal": {
+          "tok": 541,
+          "saved_pct": 0.0,
+          "retention_pct": 100.0,
+          "sig_kept": 5,
+          "sig_total": 5
+        },
+        "aggressive": {
+          "tok": 541,
+          "saved_pct": 0.0,
+          "retention_pct": 100.0,
+          "sig_kept": 5,
+          "sig_total": 5
+        }
+      }
+    },
+    {
+      "file": "transcribe-captions.md",
+      "raw_tok": 1172,
+      "levels": {
+        "none": {
+          "tok": 1172,
+          "saved_pct": 0.0,
+          "retention_pct": 100.0,
+          "sig_kept": 18,
+          "sig_total": 18
+        },
+        "minimal": {
+          "tok": 1172,
+          "saved_pct": 0.0,
+          "retention_pct": 100.0,
+          "sig_kept": 18,
+          "sig_total": 18
+        },
+        "aggressive": {
+          "tok": 1172,
+          "saved_pct": 0.0,
+          "retention_pct": 100.0,
+          "sig_kept": 18,
+          "sig_total": 18
+        }
+      }
+    },
+    {
+      "file": "REFERENCE.md",
+      "raw_tok": 687,
+      "levels": {
+        "none": {
+          "tok": 687,
+          "saved_pct": 0.0,
+          "retention_pct": 100.0,
+          "sig_kept": 2,
+          "sig_total": 2
+        },
+        "minimal": {
+          "tok": 687,
+          "saved_pct": 0.0,
+          "retention_pct": 100.0,
+          "sig_kept": 2,
+          "sig_total": 2
+        },
+        "aggressive": {
+          "tok": 687,
+          "saved_pct": 0.0,
+          "retention_pct": 100.0,
+          "sig_kept": 2,
+          "sig_total": 2
+        }
+      }
+    },
+    {
+      "file": "REFERENCE.md",
+      "raw_tok": 359,
+      "levels": {
+        "none": {
+          "tok": 359,
+          "saved_pct": 0.0,
+          "retention_pct": 100.0,
+          "sig_kept": 2,
+          "sig_total": 2
+        },
+        "minimal": {
+          "tok": 359,
+          "saved_pct": 0.0,
+          "retention_pct": 100.0,
+          "sig_kept": 2,
+          "sig_total": 2
+        },
+        "aggressive": {
+          "tok": 359,
+          "saved_pct": 0.0,
+          "retention_pct": 100.0,
+          "sig_kept": 2,
+          "sig_total": 2
+        }
+      }
+    },
+    {
+      "file": "REFERENCE.md",
+      "raw_tok": 4100,
+      "levels": {
+        "none": {
+          "tok": 4100,
+          "saved_pct": 0.0,
+          "retention_pct": 100.0,
+          "sig_kept": 12,
+          "sig_total": 12
+        },
+        "minimal": {
+          "tok": 4100,
+          "saved_pct": 0.0,
+          "retention_pct": 100.0,
+          "sig_kept": 12,
+          "sig_total": 12
+        },
+        "aggressive": {
+          "tok": 4100,
+          "saved_pct": 0.0,
+          "retention_pct": 100.0,
+          "sig_kept": 12,
+          "sig_total": 12
+        }
+      }
+    },
+    {
+      "file": "inline-effects.md",
+      "raw_tok": 252,
+      "levels": {
+        "none": {
+          "tok": 252,
+          "saved_pct": 0.0,
+          "retention_pct": 100.0,
+          "sig_kept": 2,
+          "sig_total": 2
+        },
+        "minimal": {
+          "tok": 252,
+          "saved_pct": 0.0,
+          "retention_pct": 100.0,
+          "sig_kept": 2,
+          "sig_total": 2
+        },
+        "aggressive": {
+          "tok": 252,
+          "saved_pct": 0.0,
+          "retention_pct": 100.0,
+          "sig_kept": 2,
+          "sig_total": 2
+        }
+      }
+    },
+    {
+      "file": "REFERENCE.md",
+      "raw_tok": 236,
+      "levels": {
+        "none": {
+          "tok": 236,
+          "saved_pct": 0.0,
+          "retention_pct": 100.0,
+          "sig_kept": 1,
+          "sig_total": 1
+        },
+        "minimal": {
+          "tok": 236,
+          "saved_pct": 0.0,
+          "retention_pct": 100.0,
+          "sig_kept": 1,
+          "sig_total": 1
+        },
+        "aggressive": {
+          "tok": 236,
+          "saved_pct": 0.0,
+          "retention_pct": 100.0,
+          "sig_kept": 1,
+          "sig_total": 1
+        }
+      }
+    },
+    {
+      "file": "TECHNIQUE.md",
+      "raw_tok": 951,
+      "levels": {
+        "none": {
+          "tok": 951,
+          "saved_pct": 0.0,
+          "retention_pct": 100.0,
+          "sig_kept": 2,
+          "sig_total": 2
+        },
+        "minimal": {
+          "tok": 951,
+          "saved_pct": 0.0,
+          "retention_pct": 100.0,
+          "sig_kept": 2,
+          "sig_total": 2
+        },
+        "aggressive": {
+          "tok": 951,
+          "saved_pct": 0.0,
+          "retention_pct": 100.0,
+          "sig_kept": 2,
+          "sig_total": 2
+        }
+      }
+    },
+    {
+      "file": "CesiumFlythrough.tsx",
+      "raw_tok": 2477,
+      "levels": {
+        "none": {
+          "tok": 2477,
+          "saved_pct": 0.0,
+          "retention_pct": 100.0,
+          "sig_kept": 47,
+          "sig_total": 47
+        },
+        "minimal": {
+          "tok": 2477,
+          "saved_pct": 0.0,
+          "retention_pct": 100.0,
+          "sig_kept": 47,
+          "sig_total": 47
+        },
+        "aggressive": {
+          "tok": 760,
+          "saved_pct": 69.31772305207913,
+          "retention_pct": 93.61702127659575,
+          "sig_kept": 44,
+          "sig_total": 47
+        }
+      }
+    },
+    {
+      "file": "example-Root.tsx",
+      "raw_tok": 206,
+      "levels": {
+        "none": {
+          "tok": 206,
+          "saved_pct": 0.0,
+          "retention_pct": 100.0,
+          "sig_kept": 3,
+          "sig_total": 3
+        },
+        "minimal": {
+          "tok": 206,
+          "saved_pct": 0.0,
+          "retention_pct": 100.0,
+          "sig_kept": 3,
+          "sig_total": 3
+        },
+        "aggressive": {
+          "tok": 43,
+          "saved_pct": 79.12621359223301,
+          "retention_pct": 66.66666666666666,
+          "sig_kept": 2,
+          "sig_total": 3
+        }
+      }
+    },
+    {
+      "file": "flight-path.ts",
+      "raw_tok": 388,
+      "levels": {
+        "none": {
+          "tok": 388,
+          "saved_pct": 0.0,
+          "retention_pct": 100.0,
+          "sig_kept": 9,
+          "sig_total": 9
+        },
+        "minimal": {
+          "tok": 343,
+          "saved_pct": 11.5979381443299,
+          "retention_pct": 100.0,
+          "sig_kept": 9,
+          "sig_total": 9
+        },
+        "aggressive": {
+          "tok": 81,
+          "saved_pct": 79.12371134020619,
+          "retention_pct": 55.55555555555556,
+          "sig_kept": 5,
+          "sig_total": 9
+        }
+      }
+    },
+    {
+      "file": "3d-data-sources.md",
+      "raw_tok": 314,
+      "levels": {
+        "none": {
+          "tok": 314,
+          "saved_pct": 0.0,
+          "retention_pct": 100.0,
+          "sig_kept": 2,
+          "sig_total": 2
+        },
+        "minimal": {
+          "tok": 314,
+          "saved_pct": 0.0,
+          "retention_pct": 100.0,
+          "sig_kept": 2,
+          "sig_total": 2
+        },
+        "aggressive": {
+          "tok": 314,
+          "saved_pct": 0.0,
+          "retention_pct": 100.0,
+          "sig_kept": 2,
+          "sig_total": 2
+        }
+      }
+    },
+    {
+      "file": "3d-flyover-architecture.md",
+      "raw_tok": 1998,
+      "levels": {
+        "none": {
+          "tok": 1998,
+          "saved_pct": 0.0,
+          "retention_pct": 100.0,
+          "sig_kept": 16,
+          "sig_total": 16
+        },
+        "minimal": {
+          "tok": 1998,
+          "saved_pct": 0.0,
+          "retention_pct": 100.0,
+          "sig_kept": 16,
+          "sig_total": 16
+        },
+        "aggressive": {
+          "tok": 1998,
+          "saved_pct": 0.0,
+          "retention_pct": 100.0,
+          "sig_kept": 16,
+          "sig_total": 16
+        }
+      }
+    },
+    {
+      "file": "3d-troubleshooting.md",
+      "raw_tok": 1333,
+      "levels": {
+        "none": {
+          "tok": 1333,
+          "saved_pct": 0.0,
+          "retention_pct": 100.0,
+          "sig_kept": 7,
+          "sig_total": 7
+        },
+        "minimal": {
+          "tok": 1333,
+          "saved_pct": 0.0,
+          "retention_pct": 100.0,
+          "sig_kept": 7,
+          "sig_total": 7
+        },
+        "aggressive": {
+          "tok": 1333,
+          "saved_pct": 0.0,
+          "retention_pct": 100.0,
+          "sig_kept": 7,
+          "sig_total": 7
+        }
+      }
+    },
+    {
+      "file": "TECHNIQUE.md",
+      "raw_tok": 3394,
+      "levels": {
+        "none": {
+          "tok": 3394,
+          "saved_pct": 0.0,
+          "retention_pct": 100.0,
+          "sig_kept": 28,
+          "sig_total": 28
+        },
+        "minimal": {
+          "tok": 3394,
+          "saved_pct": 0.0,
+          "retention_pct": 100.0,
+          "sig_kept": 28,
+          "sig_total": 28
+        },
+        "aggressive": {
+          "tok": 3394,
+          "saved_pct": 0.0,
+          "retention_pct": 100.0,
+          "sig_kept": 28,
+          "sig_total": 28
+        }
+      }
+    },
+    {
+      "file": "render-stability.md",
+      "raw_tok": 796,
+      "levels": {
+        "none": {
+          "tok": 796,
+          "saved_pct": 0.0,
+          "retention_pct": 100.0,
+          "sig_kept": 7,
+          "sig_total": 7
+        },
+        "minimal": {
+          "tok": 796,
+          "saved_pct": 0.0,
+          "retention_pct": 100.0,
+          "sig_kept": 7,
+          "sig_total": 7
+        },
+        "aggressive": {
+          "tok": 796,
+          "saved_pct": 0.0,
+          "retention_pct": 100.0,
+          "sig_kept": 7,
+          "sig_total": 7
+        }
+      }
+    },
+    {
+      "file": "TECHNIQUE.md",
+      "raw_tok": 3537,
+      "levels": {
+        "none": {
+          "tok": 3537,
+          "saved_pct": 0.0,
+          "retention_pct": 100.0,
+          "sig_kept": 30,
+          "sig_total": 30
+        },
+        "minimal": {
+          "tok": 3537,
+          "saved_pct": 0.0,
+          "retention_pct": 100.0,
+          "sig_kept": 30,
+          "sig_total": 30
+        },
+        "aggressive": {
+          "tok": 3537,
+          "saved_pct": 0.0,
+          "retention_pct": 100.0,
+          "sig_kept": 30,
+          "sig_total": 30
+        }
+      }
+    },
+    {
+      "file": "render-stability.md",
+      "raw_tok": 796,
+      "levels": {
+        "none": {
+          "tok": 796,
+          "saved_pct": 0.0,
+          "retention_pct": 100.0,
+          "sig_kept": 7,
+          "sig_total": 7
+        },
+        "minimal": {
+          "tok": 796,
+          "saved_pct": 0.0,
+          "retention_pct": 100.0,
+          "sig_kept": 7,
+          "sig_total": 7
+        },
+        "aggressive": {
+          "tok": 796,
+          "saved_pct": 0.0,
+          "retention_pct": 100.0,
+          "sig_kept": 7,
+          "sig_total": 7
+        }
+      }
+    },
+    {
+      "file": "TECHNIQUE.md",
+      "raw_tok": 1023,
+      "levels": {
+        "none": {
+          "tok": 1023,
+          "saved_pct": 0.0,
+          "retention_pct": 100.0,
+          "sig_kept": 2,
+          "sig_total": 2
+        },
+        "minimal": {
+          "tok": 1023,
+          "saved_pct": 0.0,
+          "retention_pct": 100.0,
+          "sig_kept": 2,
+          "sig_total": 2
+        },
+        "aggressive": {
+          "tok": 1023,
+          "saved_pct": 0.0,
+          "retention_pct": 100.0,
+          "sig_kept": 2,
+          "sig_total": 2
+        }
+      }
+    },
+    {
+      "file": "CountryLabel.tsx",
+      "raw_tok": 532,
+      "levels": {
+        "none": {
+          "tok": 532,
+          "saved_pct": 0.0,
+          "retention_pct": 100.0,
+          "sig_kept": 2,
+          "sig_total": 2
+        },
+        "minimal": {
+          "tok": 492,
+          "saved_pct": 7.518796992481203,
+          "retention_pct": 100.0,
+          "sig_kept": 2,
+          "sig_total": 2
+        },
+        "aggressive": {
+          "tok": 38,
+          "saved_pct": 92.85714285714286,
+          "retention_pct": 50.0,
+          "sig_kept": 1,
+          "sig_total": 2
+        }
+      }
+    },
+    {
+      "file": "MapTilerVectorElement.ts",
+      "raw_tok": 658,
+      "levels": {
+        "none": {
+          "tok": 658,
+          "saved_pct": 0.0,
+          "retention_pct": 100.0,
+          "sig_kept": 5,
+          "sig_total": 5
+        },
+        "minimal": {
+          "tok": 369,
+          "saved_pct": 43.920972644376896,
+          "retention_pct": 60.0,
+          "sig_kept": 3,
+          "sig_total": 5
+        },
+        "aggressive": {
+          "tok": 28,
+          "saved_pct": 95.74468085106383,
+          "retention_pct": 20.0,
+          "sig_kept": 1,
+          "sig_total": 5
+        }
+      }
+    },
+    {
+      "file": "RiverReveal.tsx",
+      "raw_tok": 3273,
+      "levels": {
+        "none": {
+          "tok": 3273,
+          "saved_pct": 0.0,
+          "retention_pct": 100.0,
+          "sig_kept": 42,
+          "sig_total": 42
+        },
+        "minimal": {
+          "tok": 2955,
+          "saved_pct": 9.715857011915674,
+          "retention_pct": 100.0,
+          "sig_kept": 42,
+          "sig_total": 42
+        },
+        "aggressive": {
+          "tok": 812,
+          "saved_pct": 75.19095630919645,
+          "retention_pct": 90.47619047619048,
+          "sig_kept": 38,
+          "sig_total": 42
+        }
+      }
+    },
+    {
+      "file": "example-Root.tsx",
+      "raw_tok": 264,
+      "levels": {
+        "none": {
+          "tok": 264,
+          "saved_pct": 0.0,
+          "retention_pct": 100.0,
+          "sig_kept": 3,
+          "sig_total": 3
+        },
+        "minimal": {
+          "tok": 111,
+          "saved_pct": 57.95454545454546,
+          "retention_pct": 66.66666666666666,
+          "sig_kept": 2,
+          "sig_total": 3
+        },
+        "aggressive": {
+          "tok": 40,
+          "saved_pct": 84.84848484848484,
+          "retention_pct": 33.33333333333333,
+          "sig_kept": 1,
+          "sig_total": 3
+        }
+      }
+    },
+    {
+      "file": "tokens.ts",
+      "raw_tok": 335,
+      "levels": {
+        "none": {
+          "tok": 335,
+          "saved_pct": 0.0,
+          "retention_pct": 100.0,
+          "sig_kept": 10,
+          "sig_total": 10
+        },
+        "minimal": {
+          "tok": 213,
+          "saved_pct": 36.417910447761194,
+          "retention_pct": 100.0,
+          "sig_kept": 10,
+          "sig_total": 10
+        },
+        "aggressive": {
+          "tok": 335,
+          "saved_pct": 0.0,
+          "retention_pct": 100.0,
+          "sig_kept": 10,
+          "sig_total": 10
+        }
+      }
+    },
+    {
+      "file": "map-data-sources.md",
+      "raw_tok": 1035,
+      "levels": {
+        "none": {
+          "tok": 1035,
+          "saved_pct": 0.0,
+          "retention_pct": 100.0,
+          "sig_kept": 2,
+          "sig_total": 2
+        },
+        "minimal": {
+          "tok": 1035,
+          "saved_pct": 0.0,
+          "retention_pct": 100.0,
+          "sig_kept": 2,
+          "sig_total": 2
+        },
+        "aggressive": {
+          "tok": 1035,
+          "saved_pct": 0.0,
+          "retention_pct": 100.0,
+          "sig_kept": 2,
+          "sig_total": 2
+        }
+      }
+    },
+    {
+      "file": "map-explainer-architecture.md",
+      "raw_tok": 1847,
+      "levels": {
+        "none": {
+          "tok": 1847,
+          "saved_pct": 0.0,
+          "retention_pct": 100.0,
+          "sig_kept": 17,
+          "sig_total": 17
+        },
+        "minimal": {
+          "tok": 1847,
+          "saved_pct": 0.0,
+          "retention_pct": 100.0,
+          "sig_kept": 17,
+          "sig_total": 17
+        },
+        "aggressive": {
+          "tok": 1847,
+          "saved_pct": 0.0,
+          "retention_pct": 100.0,
+          "sig_kept": 17,
+          "sig_total": 17
+        }
+      }
+    },
+    {
+      "file": "map-geo-prep.md",
+      "raw_tok": 1135,
+      "levels": {
+        "none": {
+          "tok": 1135,
+          "saved_pct": 0.0,
+          "retention_pct": 100.0,
+          "sig_kept": 4,
+          "sig_total": 4
+        },
+        "minimal": {
+          "tok": 1135,
+          "saved_pct": 0.0,
+          "retention_pct": 100.0,
+          "sig_kept": 4,
+          "sig_total": 4
+        },
+        "aggressive": {
+          "tok": 1135,
+          "saved_pct": 0.0,
+          "retention_pct": 100.0,
+          "sig_kept": 4,
+          "sig_total": 4
+        }
+      }
+    },
+    {
+      "file": "render-stability.md",
+      "raw_tok": 796,
+      "levels": {
+        "none": {
+          "tok": 796,
+          "saved_pct": 0.0,
+          "retention_pct": 100.0,
+          "sig_kept": 7,
+          "sig_total": 7
+        },
+        "minimal": {
+          "tok": 796,
+          "saved_pct": 0.0,
+          "retention_pct": 100.0,
+          "sig_kept": 7,
+          "sig_total": 7
+        },
+        "aggressive": {
+          "tok": 796,
+          "saved_pct": 0.0,
+          "retention_pct": 100.0,
+          "sig_kept": 7,
+          "sig_total": 7
+        }
+      }
+    },
+    {
+      "file": "TECHNIQUE.md",
+      "raw_tok": 286,
+      "levels": {
+        "none": {
+          "tok": 286,
+          "saved_pct": 0.0,
+          "retention_pct": 100.0,
+          "sig_kept": 3,
+          "sig_total": 3
+        },
+        "minimal": {
+          "tok": 286,
+          "saved_pct": 0.0,
+          "retention_pct": 100.0,
+          "sig_kept": 3,
+          "sig_total": 3
+        },
+        "aggressive": {
+          "tok": 286,
+          "saved_pct": 0.0,
+          "retention_pct": 100.0,
+          "sig_kept": 3,
+          "sig_total": 3
+        }
+      }
+    },
+    {
+      "file": "3d.md",
+      "raw_tok": 601,
+      "levels": {
+        "none": {
+          "tok": 601,
+          "saved_pct": 0.0,
+          "retention_pct": 100.0,
+          "sig_kept": 2,
+          "sig_total": 2
+        },
+        "minimal": {
+          "tok": 601,
+          "saved_pct": 0.0,
+          "retention_pct": 100.0,
+          "sig_kept": 2,
+          "sig_total": 2
+        },
+        "aggressive": {
+          "tok": 601,
+          "saved_pct": 0.0,
+          "retention_pct": 100.0,
+          "sig_kept": 2,
+          "sig_total": 2
+        }
+      }
+    },
+    {
+      "file": "REFERENCE.md",
+      "raw_tok": 3461,
+      "levels": {
+        "none": {
+          "tok": 3461,
+          "saved_pct": 0.0,
+          "retention_pct": 100.0,
+          "sig_kept": 10,
+          "sig_total": 10
+        },
+        "minimal": {
+          "tok": 3461,
+          "saved_pct": 0.0,
+          "retention_pct": 100.0,
+          "sig_kept": 10,
+          "sig_total": 10
+        },
+        "aggressive": {
+          "tok": 3461,
+          "saved_pct": 0.0,
+          "retention_pct": 100.0,
+          "sig_kept": 10,
+          "sig_total": 10
+        }
+      }
+    },
+    {
+      "file": "audio-visualization.md",
+      "raw_tok": 1216,
+      "levels": {
+        "none": {
+          "tok": 1216,
+          "saved_pct": 0.0,
+          "retention_pct": 100.0,
+          "sig_kept": 13,
+          "sig_total": 13
+        },
+        "minimal": {
+          "tok": 1216,
+          "saved_pct": 0.0,
+          "retention_pct": 100.0,
+          "sig_kept": 13,
+          "sig_total": 13
+        },
+        "aggressive": {
+          "tok": 1216,
+          "saved_pct": 0.0,
+          "retention_pct": 100.0,
+          "sig_kept": 13,
+          "sig_total": 13
+        }
+      }
+    },
+    {
+      "file": "audio.md",
+      "raw_tok": 1153,
+      "levels": {
+        "none": {
+          "tok": 1153,
+          "saved_pct": 0.0,
+          "retention_pct": 100.0,
+          "sig_kept": 2,
+          "sig_total": 2
+        },
+        "minimal": {
+          "tok": 1153,
+          "saved_pct": 0.0,
+          "retention_pct": 100.0,
+          "sig_kept": 2,
+          "sig_total": 2
+        },
+        "aggressive": {
+          "tok": 1153,
+          "saved_pct": 0.0,
+          "retention_pct": 100.0,
+          "sig_kept": 2,
+          "sig_total": 2
+        }
+      }
+    },
+    {
+      "file": "calculate-metadata.md",
+      "raw_tok": 791,
+      "levels": {
+        "none": {
+          "tok": 791,
+          "saved_pct": 0.0,
+          "retention_pct": 100.0,
+          "sig_kept": 8,
+          "sig_total": 8
+        },
+        "minimal": {
+          "tok": 791,
+          "saved_pct": 0.0,
+          "retention_pct": 100.0,
+          "sig_kept": 8,
+          "sig_total": 8
+        },
+        "aggressive": {
+          "tok": 791,
+          "saved_pct": 0.0,
+          "retention_pct": 100.0,
+          "sig_kept": 8,
+          "sig_total": 8
+        }
+      }
+    },
+    {
+      "file": "compositions.md",
+      "raw_tok": 1179,
+      "levels": {
+        "none": {
+          "tok": 1179,
+          "saved_pct": 0.0,
+          "retention_pct": 100.0,
+          "sig_kept": 2,
+          "sig_total": 2
+        },
+        "minimal": {
+          "tok": 1179,
+          "saved_pct": 0.0,
+          "retention_pct": 100.0,
+          "sig_kept": 2,
+          "sig_total": 2
+        },
+        "aggressive": {
+          "tok": 1179,
+          "saved_pct": 0.0,
+          "retention_pct": 100.0,
+          "sig_kept": 2,
+          "sig_total": 2
+        }
+      }
+    },
+    {
+      "file": "connected-compositions.md",
+      "raw_tok": 1004,
+      "levels": {
+        "none": {
+          "tok": 1004,
+          "saved_pct": 0.0,
+          "retention_pct": 100.0,
+          "sig_kept": 7,
+          "sig_total": 7
+        },
+        "minimal": {
+          "tok": 1004,
+          "saved_pct": 0.0,
+          "retention_pct": 100.0,
+          "sig_kept": 7,
+          "sig_total": 7
+        },
+        "aggressive": {
+          "tok": 1004,
+          "saved_pct": 0.0,
+          "retention_pct": 100.0,
+          "sig_kept": 7,
+          "sig_total": 7
+        }
+      }
+    },
+    {
+      "file": "cropping.md",
+      "raw_tok": 359,
+      "levels": {
+        "none": {
+          "tok": 359,
+          "saved_pct": 0.0,
+          "retention_pct": 100.0,
+          "sig_kept": 1,
+          "sig_total": 1
+        },
+        "minimal": {
+          "tok": 359,
+          "saved_pct": 0.0,
+          "retention_pct": 100.0,
+          "sig_kept": 1,
+          "sig_total": 1
+        },
+        "aggressive": {
+          "tok": 359,
+          "saved_pct": 0.0,
+          "retention_pct": 100.0,
+          "sig_kept": 1,
+          "sig_total": 1
+        }
+      }
+    },
+    {
+      "file": "effects.md",
+      "raw_tok": 2409,
+      "levels": {
+        "none": {
+          "tok": 2409,
+          "saved_pct": 0.0,
+          "retention_pct": 100.0,
+          "sig_kept": 14,
+          "sig_total": 14
+        },
+        "minimal": {
+          "tok": 2409,
+          "saved_pct": 0.0,
+          "retention_pct": 100.0,
+          "sig_kept": 14,
+          "sig_total": 14
+        },
+        "aggressive": {
+          "tok": 2409,
+          "saved_pct": 0.0,
+          "retention_pct": 100.0,
+          "sig_kept": 14,
+          "sig_total": 14
+        }
+      }
+    },
+    {
+      "file": "embedding-videos.md",
+      "raw_tok": 1059,
+      "levels": {
+        "none": {
+          "tok": 1059,
+          "saved_pct": 0.0,
+          "retention_pct": 100.0,
+          "sig_kept": 2,
+          "sig_total": 2
+        },
+        "minimal": {
+          "tok": 1059,
+          "saved_pct": 0.0,
+          "retention_pct": 100.0,
+          "sig_kept": 2,
+          "sig_total": 2
+        },
+        "aggressive": {
+          "tok": 1059,
+          "saved_pct": 0.0,
+          "retention_pct": 100.0,
+          "sig_kept": 2,
+          "sig_total": 2
+        }
+      }
+    },
+    {
+      "file": "ffmpeg.md",
+      "raw_tok": 302,
+      "levels": {
+        "none": {
+          "tok": 302,
+          "saved_pct": 0.0,
+          "retention_pct": 100.0,
+          "sig_kept": 0,
+          "sig_total": 0
+        },
+        "minimal": {
+          "tok": 302,
+          "saved_pct": 0.0,
+          "retention_pct": 100.0,
+          "sig_kept": 0,
+          "sig_total": 0
+        },
+        "aggressive": {
+          "tok": 302,
+          "saved_pct": 0.0,
+          "retention_pct": 100.0,
+          "sig_kept": 0,
+          "sig_total": 0
+        }
+      }
+    },
+    {
+      "file": "gifs.md",
+      "raw_tok": 1013,
+      "levels": {
+        "none": {
+          "tok": 1013,
+          "saved_pct": 0.0,
+          "retention_pct": 100.0,
+          "sig_kept": 3,
+          "sig_total": 3
+        },
+        "minimal": {
+          "tok": 1013,
+          "saved_pct": 0.0,
+          "retention_pct": 100.0,
+          "sig_kept": 3,
+          "sig_total": 3
+        },
+        "aggressive": {
+          "tok": 1013,
+          "saved_pct": 0.0,
+          "retention_pct": 100.0,
+          "sig_kept": 3,
+          "sig_total": 3
+        }
+      }
+    },
+    {
+      "file": "google-fonts.md",
+      "raw_tok": 444,
+      "levels": {
+        "none": {
+          "tok": 444,
+          "saved_pct": 0.0,
+          "retention_pct": 100.0,
+          "sig_kept": 1,
+          "sig_total": 1
+        },
+        "minimal": {
+          "tok": 444,
+          "saved_pct": 0.0,
+          "retention_pct": 100.0,
+          "sig_kept": 1,
+          "sig_total": 1
+        },
+        "aggressive": {
+          "tok": 444,
+          "saved_pct": 0.0,
+          "retention_pct": 100.0,
+          "sig_kept": 1,
+          "sig_total": 1
+        }
+      }
+    },
+    {
+      "file": "html-in-canvas.md",
+      "raw_tok": 722,
+      "levels": {
+        "none": {
+          "tok": 722,
+          "saved_pct": 0.0,
+          "retention_pct": 100.0,
+          "sig_kept": 5,
+          "sig_total": 5
+        },
+        "minimal": {
+          "tok": 722,
+          "saved_pct": 0.0,
+          "retention_pct": 100.0,
+          "sig_kept": 5,
+          "sig_total": 5
+        },
+        "aggressive": {
+          "tok": 722,
+          "saved_pct": 0.0,
+          "retention_pct": 100.0,
+          "sig_kept": 5,
+          "sig_total": 5
+        }
+      }
+    },
+    {
+      "file": "images.md",
+      "raw_tok": 399,
+      "levels": {
+        "none": {
+          "tok": 399,
+          "saved_pct": 0.0,
+          "retention_pct": 100.0,
+          "sig_kept": 2,
+          "sig_total": 2
+        },
+        "minimal": {
+          "tok": 399,
+          "saved_pct": 0.0,
+          "retention_pct": 100.0,
+          "sig_kept": 2,
+          "sig_total": 2
+        },
+        "aggressive": {
+          "tok": 399,
+          "saved_pct": 0.0,
+          "retention_pct": 100.0,
+          "sig_kept": 2,
+          "sig_total": 2
+        }
+      }
+    },
+    {
+      "file": "light-leaks.md",
+      "raw_tok": 775,
+      "levels": {
+        "none": {
+          "tok": 775,
+          "saved_pct": 0.0,
+          "retention_pct": 100.0,
+          "sig_kept": 3,
+          "sig_total": 3
+        },
+        "minimal": {
+          "tok": 775,
+          "saved_pct": 0.0,
+          "retention_pct": 100.0,
+          "sig_kept": 3,
+          "sig_total": 3
+        },
+        "aggressive": {
+          "tok": 775,
+          "saved_pct": 0.0,
+          "retention_pct": 100.0,
+          "sig_kept": 3,
+          "sig_total": 3
+        }
+      }
+    },
+    {
+      "file": "local-fonts.md",
+      "raw_tok": 418,
+      "levels": {
+        "none": {
+          "tok": 418,
+          "saved_pct": 0.0,
+          "retention_pct": 100.0,
+          "sig_kept": 1,
+          "sig_total": 1
+        },
+        "minimal": {
+          "tok": 418,
+          "saved_pct": 0.0,
+          "retention_pct": 100.0,
+          "sig_kept": 1,
+          "sig_total": 1
+        },
+        "aggressive": {
+          "tok": 418,
+          "saved_pct": 0.0,
+          "retention_pct": 100.0,
+          "sig_kept": 1,
+          "sig_total": 1
+        }
+      }
+    },
+    {
+      "file": "lottie.md",
+      "raw_tok": 424,
+      "levels": {
+        "none": {
+          "tok": 424,
+          "saved_pct": 0.0,
+          "retention_pct": 100.0,
+          "sig_kept": 1,
+          "sig_total": 1
+        },
+        "minimal": {
+          "tok": 424,
+          "saved_pct": 0.0,
+          "retention_pct": 100.0,
+          "sig_kept": 1,
+          "sig_total": 1
+        },
+        "aggressive": {
+          "tok": 424,
+          "saved_pct": 0.0,
+          "retention_pct": 100.0,
+          "sig_kept": 1,
+          "sig_total": 1
+        }
+      }
+    },
+    {
+      "file": "measuring-dom-nodes.md",
+      "raw_tok": 233,
+      "levels": {
+        "none": {
+          "tok": 233,
+          "saved_pct": 0.0,
+          "retention_pct": 100.0,
+          "sig_kept": 3,
+          "sig_total": 3
+        },
+        "minimal": {
+          "tok": 233,
+          "saved_pct": 0.0,
+          "retention_pct": 100.0,
+          "sig_kept": 3,
+          "sig_total": 3
+        },
+        "aggressive": {
+          "tok": 233,
+          "saved_pct": 0.0,
+          "retention_pct": 100.0,
+          "sig_kept": 3,
+          "sig_total": 3
+        }
+      }
+    },
+    {
+      "file": "measuring-text.md",
+      "raw_tok": 750,
+      "levels": {
+        "none": {
+          "tok": 750,
+          "saved_pct": 0.0,
+          "retention_pct": 100.0,
+          "sig_kept": 3,
+          "sig_total": 3
+        },
+        "minimal": {
+          "tok": 750,
+          "saved_pct": 0.0,
+          "retention_pct": 100.0,
+          "sig_kept": 3,
+          "sig_total": 3
+        },
+        "aggressive": {
+          "tok": 750,
+          "saved_pct": 0.0,
+          "retention_pct": 100.0,
+          "sig_kept": 3,
+          "sig_total": 3
+        }
+      }
+    },
+    {
+      "file": "motion-blur.md",
+      "raw_tok": 472,
+      "levels": {
+        "none": {
+          "tok": 472,
+          "saved_pct": 0.0,
+          "retention_pct": 100.0,
+          "sig_kept": 3,
+          "sig_total": 3
+        },
+        "minimal": {
+          "tok": 472,
+          "saved_pct": 0.0,
+          "retention_pct": 100.0,
+          "sig_kept": 3,
+          "sig_total": 3
+        },
+        "aggressive": {
+          "tok": 472,
+          "saved_pct": 0.0,
+          "retention_pct": 100.0,
+          "sig_kept": 3,
+          "sig_total": 3
+        }
+      }
+    },
+    {
+      "file": "multi-scene-video.md",
+      "raw_tok": 678,
+      "levels": {
+        "none": {
+          "tok": 678,
+          "saved_pct": 0.0,
+          "retention_pct": 100.0,
+          "sig_kept": 1,
+          "sig_total": 1
+        },
+        "minimal": {
+          "tok": 678,
+          "saved_pct": 0.0,
+          "retention_pct": 100.0,
+          "sig_kept": 1,
+          "sig_total": 1
+        },
+        "aggressive": {
+          "tok": 678,
+          "saved_pct": 0.0,
+          "retention_pct": 100.0,
+          "sig_kept": 1,
+          "sig_total": 1
+        }
+      }
+    },
+    {
+      "file": "parameters.md",
+      "raw_tok": 615,
+      "levels": {
+        "none": {
+          "tok": 615,
+          "saved_pct": 0.0,
+          "retention_pct": 100.0,
+          "sig_kept": 2,
+          "sig_total": 2
+        },
+        "minimal": {
+          "tok": 615,
+          "saved_pct": 0.0,
+          "retention_pct": 100.0,
+          "sig_kept": 2,
+          "sig_total": 2
+        },
+        "aggressive": {
+          "tok": 615,
+          "saved_pct": 0.0,
+          "retention_pct": 100.0,
+          "sig_kept": 2,
+          "sig_total": 2
+        }
+      }
+    },
+    {
+      "file": "REFERENCE.md",
+      "raw_tok": 236,
+      "levels": {
+        "none": {
+          "tok": 236,
+          "saved_pct": 0.0,
+          "retention_pct": 100.0,
+          "sig_kept": 1,
+          "sig_total": 1
+        },
+        "minimal": {
+          "tok": 236,
+          "saved_pct": 0.0,
+          "retention_pct": 100.0,
+          "sig_kept": 1,
+          "sig_total": 1
+        },
+        "aggressive": {
+          "tok": 236,
+          "saved_pct": 0.0,
+          "retention_pct": 100.0,
+          "sig_kept": 1,
+          "sig_total": 1
+        }
+      }
+    },
+    {
+      "file": "TECHNIQUE.md",
+      "raw_tok": 951,
+      "levels": {
+        "none": {
+          "tok": 951,
+          "saved_pct": 0.0,
+          "retention_pct": 100.0,
+          "sig_kept": 2,
+          "sig_total": 2
+        },
+        "minimal": {
+          "tok": 951,
+          "saved_pct": 0.0,
+          "retention_pct": 100.0,
+          "sig_kept": 2,
+          "sig_total": 2
+        },
+        "aggressive": {
+          "tok": 951,
+          "saved_pct": 0.0,
+          "retention_pct": 100.0,
+          "sig_kept": 2,
+          "sig_total": 2
+        }
+      }
+    },
+    {
+      "file": "CesiumFlythrough.tsx",
+      "raw_tok": 2477,
+      "levels": {
+        "none": {
+          "tok": 2477,
+          "saved_pct": 0.0,
+          "retention_pct": 100.0,
+          "sig_kept": 47,
+          "sig_total": 47
+        },
+        "minimal": {
+          "tok": 2477,
+          "saved_pct": 0.0,
+          "retention_pct": 100.0,
+          "sig_kept": 47,
+          "sig_total": 47
+        },
+        "aggressive": {
+          "tok": 760,
+          "saved_pct": 69.31772305207913,
+          "retention_pct": 93.61702127659575,
+          "sig_kept": 44,
+          "sig_total": 47
+        }
+      }
+    },
+    {
+      "file": "example-Root.tsx",
+      "raw_tok": 206,
+      "levels": {
+        "none": {
+          "tok": 206,
+          "saved_pct": 0.0,
+          "retention_pct": 100.0,
+          "sig_kept": 3,
+          "sig_total": 3
+        },
+        "minimal": {
+          "tok": 206,
+          "saved_pct": 0.0,
+          "retention_pct": 100.0,
+          "sig_kept": 3,
+          "sig_total": 3
+        },
+        "aggressive": {
+          "tok": 43,
+          "saved_pct": 79.12621359223301,
+          "retention_pct": 66.66666666666666,
+          "sig_kept": 2,
+          "sig_total": 3
+        }
+      }
+    },
+    {
+      "file": "flight-path.ts",
+      "raw_tok": 388,
+      "levels": {
+        "none": {
+          "tok": 388,
+          "saved_pct": 0.0,
+          "retention_pct": 100.0,
+          "sig_kept": 9,
+          "sig_total": 9
+        },
+        "minimal": {
+          "tok": 343,
+          "saved_pct": 11.5979381443299,
+          "retention_pct": 100.0,
+          "sig_kept": 9,
+          "sig_total": 9
+        },
+        "aggressive": {
+          "tok": 81,
+          "saved_pct": 79.12371134020619,
+          "retention_pct": 55.55555555555556,
+          "sig_kept": 5,
+          "sig_total": 9
+        }
+      }
+    },
+    {
+      "file": "3d-data-sources.md",
+      "raw_tok": 314,
+      "levels": {
+        "none": {
+          "tok": 314,
+          "saved_pct": 0.0,
+          "retention_pct": 100.0,
+          "sig_kept": 2,
+          "sig_total": 2
+        },
+        "minimal": {
+          "tok": 314,
+          "saved_pct": 0.0,
+          "retention_pct": 100.0,
+          "sig_kept": 2,
+          "sig_total": 2
+        },
+        "aggressive": {
+          "tok": 314,
+          "saved_pct": 0.0,
+          "retention_pct": 100.0,
+          "sig_kept": 2,
+          "sig_total": 2
+        }
+      }
+    },
+    {
+      "file": "3d-flyover-architecture.md",
+      "raw_tok": 1998,
+      "levels": {
+        "none": {
+          "tok": 1998,
+          "saved_pct": 0.0,
+          "retention_pct": 100.0,
+          "sig_kept": 16,
+          "sig_total": 16
+        },
+        "minimal": {
+          "tok": 1998,
+          "saved_pct": 0.0,
+          "retention_pct": 100.0,
+          "sig_kept": 16,
+          "sig_total": 16
+        },
+        "aggressive": {
+          "tok": 1998,
+          "saved_pct": 0.0,
+          "retention_pct": 100.0,
+          "sig_kept": 16,
+          "sig_total": 16
+        }
+      }
+    },
+    {
+      "file": "3d-troubleshooting.md",
+      "raw_tok": 1333,
+      "levels": {
+        "none": {
+          "tok": 1333,
+          "saved_pct": 0.0,
+          "retention_pct": 100.0,
+          "sig_kept": 7,
+          "sig_total": 7
+        },
+        "minimal": {
+          "tok": 1333,
+          "saved_pct": 0.0,
+          "retention_pct": 100.0,
+          "sig_kept": 7,
+          "sig_total": 7
+        },
+        "aggressive": {
+          "tok": 1333,
+          "saved_pct": 0.0,
+          "retention_pct": 100.0,
+          "sig_kept": 7,
+          "sig_total": 7
+        }
+      }
+    },
+    {
+      "file": "TECHNIQUE.md",
+      "raw_tok": 3394,
+      "levels": {
+        "none": {
+          "tok": 3394,
+          "saved_pct": 0.0,
+          "retention_pct": 100.0,
+          "sig_kept": 28,
+          "sig_total": 28
+        },
+        "minimal": {
+          "tok": 3394,
+          "saved_pct": 0.0,
+          "retention_pct": 100.0,
+          "sig_kept": 28,
+          "sig_total": 28
+        },
+        "aggressive": {
+          "tok": 3394,
+          "saved_pct": 0.0,
+          "retention_pct": 100.0,
+          "sig_kept": 28,
+          "sig_total": 28
+        }
+      }
+    },
+    {
+      "file": "render-stability.md",
+      "raw_tok": 796,
+      "levels": {
+        "none": {
+          "tok": 796,
+          "saved_pct": 0.0,
+          "retention_pct": 100.0,
+          "sig_kept": 7,
+          "sig_total": 7
+        },
+        "minimal": {
+          "tok": 796,
+          "saved_pct": 0.0,
+          "retention_pct": 100.0,
+          "sig_kept": 7,
+          "sig_total": 7
+        },
+        "aggressive": {
+          "tok": 796,
+          "saved_pct": 0.0,
+          "retention_pct": 100.0,
+          "sig_kept": 7,
+          "sig_total": 7
+        }
+      }
+    },
+    {
+      "file": "TECHNIQUE.md",
+      "raw_tok": 3537,
+      "levels": {
+        "none": {
+          "tok": 3537,
+          "saved_pct": 0.0,
+          "retention_pct": 100.0,
+          "sig_kept": 30,
+          "sig_total": 30
+        },
+        "minimal": {
+          "tok": 3537,
+          "saved_pct": 0.0,
+          "retention_pct": 100.0,
+          "sig_kept": 30,
+          "sig_total": 30
+        },
+        "aggressive": {
+          "tok": 3537,
+          "saved_pct": 0.0,
+          "retention_pct": 100.0,
+          "sig_kept": 30,
+          "sig_total": 30
+        }
+      }
+    },
+    {
+      "file": "render-stability.md",
+      "raw_tok": 796,
+      "levels": {
+        "none": {
+          "tok": 796,
+          "saved_pct": 0.0,
+          "retention_pct": 100.0,
+          "sig_kept": 7,
+          "sig_total": 7
+        },
+        "minimal": {
+          "tok": 796,
+          "saved_pct": 0.0,
+          "retention_pct": 100.0,
+          "sig_kept": 7,
+          "sig_total": 7
+        },
+        "aggressive": {
+          "tok": 796,
+          "saved_pct": 0.0,
+          "retention_pct": 100.0,
+          "sig_kept": 7,
+          "sig_total": 7
+        }
+      }
+    },
+    {
+      "file": "TECHNIQUE.md",
+      "raw_tok": 1023,
+      "levels": {
+        "none": {
+          "tok": 1023,
+          "saved_pct": 0.0,
+          "retention_pct": 100.0,
+          "sig_kept": 2,
+          "sig_total": 2
+        },
+        "minimal": {
+          "tok": 1023,
+          "saved_pct": 0.0,
+          "retention_pct": 100.0,
+          "sig_kept": 2,
+          "sig_total": 2
+        },
+        "aggressive": {
+          "tok": 1023,
+          "saved_pct": 0.0,
+          "retention_pct": 100.0,
+          "sig_kept": 2,
+          "sig_total": 2
+        }
+      }
+    },
+    {
+      "file": "CountryLabel.tsx",
+      "raw_tok": 532,
+      "levels": {
+        "none": {
+          "tok": 532,
+          "saved_pct": 0.0,
+          "retention_pct": 100.0,
+          "sig_kept": 2,
+          "sig_total": 2
+        },
+        "minimal": {
+          "tok": 492,
+          "saved_pct": 7.518796992481203,
+          "retention_pct": 100.0,
+          "sig_kept": 2,
+          "sig_total": 2
+        },
+        "aggressive": {
+          "tok": 38,
+          "saved_pct": 92.85714285714286,
+          "retention_pct": 50.0,
+          "sig_kept": 1,
+          "sig_total": 2
+        }
+      }
+    },
+    {
+      "file": "MapTilerVectorElement.ts",
+      "raw_tok": 658,
+      "levels": {
+        "none": {
+          "tok": 658,
+          "saved_pct": 0.0,
+          "retention_pct": 100.0,
+          "sig_kept": 5,
+          "sig_total": 5
+        },
+        "minimal": {
+          "tok": 369,
+          "saved_pct": 43.920972644376896,
+          "retention_pct": 60.0,
+          "sig_kept": 3,
+          "sig_total": 5
+        },
+        "aggressive": {
+          "tok": 28,
+          "saved_pct": 95.74468085106383,
+          "retention_pct": 20.0,
+          "sig_kept": 1,
+          "sig_total": 5
+        }
+      }
+    }
+  ]
+}

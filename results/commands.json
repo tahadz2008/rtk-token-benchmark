@@ -1,0 +1,139 @@
+{
+  "rtk_version": "rtk 1.0.1",
+  "root": "C:\\Users\\ACHOUTAHA\\Documents\\Default Project\\products",
+  "src": "C:\\Users\\ACHOUTAHA\\Documents\\Default Project\\products\\intro-template-pack\\tools\\core.py",
+  "json_file": "C:\\Users\\ACHOUTAHA\\Documents\\Default Project\\realestate-ad-remotion\\package-lock.json",
+  "grep_word": "remotion",
+  "ls_bin": "C:\\Program Files\\Git\\usr\\bin\\ls.exe",
+  "grep_bin": "C:\\Program Files\\Git\\usr\\bin\\grep.exe",
+  "commands": [
+    {
+      "cmd": "ls (plain)",
+      "raw_tok": 46,
+      "rtk_tok": 56,
+      "saved_pct": -21.739130434782616,
+      "retention_pct": 100.0,
+      "raw_ids": 0,
+      "kept_ids": 0,
+      "ms_raw": 36,
+      "ms_rtk": 91,
+      "rtk_ok": true,
+      "rtk_stdout_bytes": 192
+    },
+    {
+      "cmd": "ls -l",
+      "raw_tok": 188,
+      "rtk_tok": 56,
+      "saved_pct": 70.2127659574468,
+      "retention_pct": 0.0,
+      "raw_ids": 1,
+      "kept_ids": 0,
+      "ms_raw": 36,
+      "ms_rtk": 83,
+      "rtk_ok": true,
+      "rtk_stdout_bytes": 192
+    },
+    {
+      "cmd": "ls -R vs rtk find",
+      "raw_tok": 3430,
+      "rtk_tok": 254,
+      "saved_pct": 92.59475218658892,
+      "retention_pct": 42.857142857142854,
+      "raw_ids": 7,
+      "kept_ids": 3,
+      "ms_raw": 61,
+      "ms_rtk": 119,
+      "rtk_ok": true,
+      "rtk_stdout_bytes": 1045
+    },
+    {
+      "cmd": "grep -n",
+      "raw_tok": 2827,
+      "rtk_tok": 468,
+      "saved_pct": 83.44534842589317,
+      "retention_pct": 26.666666666666668,
+      "raw_ids": 60,
+      "kept_ids": 16,
+      "ms_raw": 36,
+      "ms_rtk": 97,
+      "rtk_ok": true,
+      "rtk_stdout_bytes": 1165
+    },
+    {
+      "cmd": "cat vs rtk json",
+      "raw_tok": 41956,
+      "rtk_tok": 2640,
+      "saved_pct": 93.70769377443035,
+      "retention_pct": 0.0,
+      "raw_ids": 577,
+      "kept_ids": 0,
+      "ms_raw": 43,
+      "ms_rtk": 50,
+      "rtk_ok": true,
+      "rtk_stdout_bytes": 9965
+    },
+    {
+      "cmd": "cat vs rtk read",
+      "raw_tok": 13847,
+      "rtk_tok": 13847,
+      "saved_pct": 0.0,
+      "retention_pct": 100.0,
+      "raw_ids": 118,
+      "kept_ids": 118,
+      "ms_raw": 39,
+      "ms_rtk": 48,
+      "rtk_ok": true,
+      "rtk_stdout_bytes": 48533
+    },
+    {
+      "cmd": "cat vs read aggressive",
+      "raw_tok": 13847,
+      "rtk_tok": 744,
+      "saved_pct": 94.62699501697118,
+      "retention_pct": 34.74576271186441,
+      "raw_ids": 118,
+      "kept_ids": 41,
+      "ms_raw": 25,
+      "ms_rtk": 52,
+      "rtk_ok": true,
+      "rtk_stdout_bytes": 2852
+    }
+  ],
+  "by_ext": {
+    ".md": {
+      "n": 109,
+      "median_saved": 0.0,
+      "median_retention": 100.0
+    },
+    ".py": {
+      "n": 85,
+      "median_saved": 87.20403022670024,
+      "median_retention": 55.55555555555556
+    },
+    ".json": {
+      "n": 25,
+      "median_saved": 0.0,
+      "median_retention": 100.0
+    },
+    ".js": {
+      "n": 25,
+      "median_saved": 70.79934747145187,
+      "median_retention": 78.57142857142857
+    },
+    ".sh": {
+      "n": 9,
+      "median_saved": 0.0,
+      "median_retention": 100.0
+    },
+    ".tsx": {
+      "n": 16,
+      "median_saved": 79.12621359223301,
+      "median_retention": 52.38095238095238
+    },
+    ".ts": {
+      "n": 8,
+      "median_saved": 79.12371134020619,
+      "median_retention": 55.55555555555556
+    }
+  }
+}
